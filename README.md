@@ -7,7 +7,7 @@ The goal of this project is to analyze grocery sales data to:
 -	Provide actionable insights to optimize inventory and improve revenue.
 
 ## Dataset used 
-<p> BlinkIt Grocery <a href = 'https://github.com/Etishasri/Blinkit-Grocery-Data-Interactive-Dashboard-using-Power-Bi-/blob/main/BlinkIT%20Grocery%20Data.xlsx%20-%20BlinkIT%20Grocery%20Data.csv' > DataSet </a> </p>
+- <p> BlinkIt Grocery <a href = 'https://github.com/Etishasri/Blinkit-Grocery-Data-Interactive-Dashboard-using-Power-Bi-/blob/main/BlinkIT%20Grocery%20Data.xlsx%20-%20BlinkIT%20Grocery%20Data.csv' > DataSet </a> </p>
 
 ## Questions or KPI's 
 1.	What is the total sales revenue across all outlets?
@@ -25,8 +25,7 @@ The goal of this project is to analyze grocery sales data to:
 13.	Which locations have the highest-rated products based on customer feedback?
 14.	Is there a significant price variation in sales between different outlet sizes?
 15.	What strategies can be implemented to improve sales in low-performing outlets?
-
--Dashboard interaction - <a href = 'https://github.com/Etishasri/Blinkit-Grocery-Data-Interactive-Dashboard-using-Power-Bi-/blob/main/Blinkit%20dashboard.png'> view Dashboard </a>
+- Dashboard interaction - <a href = 'https://github.com/Etishasri/Blinkit-Grocery-Data-Interactive-Dashboard-using-Power-Bi-/blob/main/Blinkit%20dashboard.png'> view Dashboard </a>
 
 ## dashboard Image
 ![Blinkit dashboard](https://github.com/user-attachments/assets/968b6b0c-8202-4fc0-aa09-fb828687e1f9)
