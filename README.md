@@ -25,6 +25,7 @@ The goal of this project is to analyze grocery sales data to:
 13.	Which locations have the highest-rated products based on customer feedback?
 14.	Is there a significant price variation in sales between different outlet sizes?
 15.	What strategies can be implemented to improve sales in low-performing outlets?
+
 -Dashboard interaction - <a href = 'https://github.com/Etishasri/Blinkit-Grocery-Data-Interactive-Dashboard-using-Power-Bi-/blob/main/Blinkit%20dashboard.png'> view Dashboard </a>
 
 ## dashboard Image
