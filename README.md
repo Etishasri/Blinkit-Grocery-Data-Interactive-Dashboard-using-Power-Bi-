@@ -7,7 +7,7 @@ The goal of this project is to analyze grocery sales data to:
 -	Provide actionable insights to optimize inventory and improve revenue.
 
 ## Dataset used 
-- <p> BlinkIt Grocery <a href = 'https://github.com/Etishasri/Blinkit-Grocery-Data-Interactive-Dashboard-using-Power-Bi-/blob/main/BlinkIT%20Grocery%20Data.xlsx%20-%20BlinkIT%20Grocery%20Data.csv' > DataSet </a> </p>
+- <p> BlinkIt Grocery <a href = 'https://github.com/Etishasri/Blinkit-Grocery-Data-Interactive-Dashboard-using-Power-Bi-/blob/main/BlinkIt%20Grocery%20Data.csv' > DataSet </a> </p>
 
 ## Questions or KPI's 
 1.	What is the total sales revenue across all outlets?
